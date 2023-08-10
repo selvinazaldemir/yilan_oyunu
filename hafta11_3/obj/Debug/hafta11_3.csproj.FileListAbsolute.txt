@@ -1,0 +1,27 @@
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\bin\Debug\hafta11_3.exe
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\bin\Debug\hafta11_3.pdb
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.csprojAssemblyReference.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.Form1.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.Properties.Resources.resources
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.csproj.GenerateResource.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.csproj.CoreCompileInputs.cache
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.exe
+C:\Users\SELVİNAZ ALDEMİR\Source\Repos\hafta11_3\hafta11_3\obj\Debug\hafta11_3.pdb
+C:\Users\fsenel\Desktop\hafta11_3\bin\Debug\hafta11_3.exe
+C:\Users\fsenel\Desktop\hafta11_3\bin\Debug\hafta11_3.pdb
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.csprojAssemblyReference.cache
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.Form1.resources
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.Properties.Resources.resources
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.csproj.GenerateResource.cache
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.csproj.CoreCompileInputs.cache
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.exe
+C:\Users\fsenel\Desktop\hafta11_3\obj\Debug\hafta11_3.pdb
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\bin\Debug\hafta11_3.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\bin\Debug\hafta11_3.pdb
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.csprojAssemblyReference.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.Form1.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.Properties.Resources.resources
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.csproj.GenerateResource.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.csproj.CoreCompileInputs.cache
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.exe
+C:\Users\SELVİNAZ ALDEMİR\Desktop\hafta11_33\hafta11_3\obj\Debug\hafta11_3.pdb
